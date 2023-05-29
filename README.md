@@ -1,19 +1,12 @@
-# DataEngg_ETL_Project
+# Project Overview
 
-This project demstrates the following tasks: 
+This project demonstrates the following tasks: 
 
-Collect data using APIs
-
-Collect data using webscraping.
-
-Download files to process.    
-
-Read csv, xml and json file types.
-
-Extract data from the above file types.
-
-Transform data.
-
-Use the built in logging module.
-
-Save the transformed data in a ready-to-load format which data engineers can use to load the data.
+* Collect data using APIs
+* Collect data using webscraping
+* Download files to process
+* Read csv, xml and json file types
+* Extract data from the above file types
+* Transform data
+* Use the built in logging module
+* Save the transformed data in a ready-to-load format which data engineers can use to load the data
